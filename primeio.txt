@@ -1,0 +1,13 @@
+<!doctype html>
+
+<html>
+<head>
+<title>curso de html</title>
+</head>
+
+<body>
+<h1>Minha Primeira Pagina HTML...</h1>
+<p>Este é apenas um paragrafo da minha primeira pagina html.E esta é a segunda linha do parágrafo.</p>
+<url=https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png>
+</body>
+</HTML>
