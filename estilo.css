@@ -1,0 +1,16 @@
+a{
+	color: red;
+	text-decoration: none;
+	font-size:18px;
+	
+}
+
+h1{
+	font-family:helvetica,sans-serif;
+}
+#segundo{ /* id */
+	color: orange;
+}
+body p a.link{ /* class */
+	color: green;
+}
