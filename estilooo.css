@@ -1,0 +1,21 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie');
+</style>
+
+h1{
+	color: orange;
+	letter-spacing: -1px;
+	text-transform:  capitalize;
+	width: 650px;
+	text-shadow: 1px 1px black;
+	font-family: 'Reenie Beanie', cursivo;
+
+}
+p{
+	text-indent: 50px;
+	width:900px;
+	text-align: justify;
+	font-size: 33px;
+	font-family: 'Reenie Beanie', cursivo;
+
+}
